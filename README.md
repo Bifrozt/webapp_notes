@@ -3,7 +3,7 @@ Web application testing notes.
 
 # Request headers
 
-### X-Forwarded-For
+### [X-Forwarded-For](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Forwarded-For)
 Used to identify the originating IP of a client that passed trough a proxy server.
 
 #### I.E.
