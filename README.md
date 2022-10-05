@@ -14,5 +14,8 @@ In the above example, the server would understand **55.66.77.88** to be the **Cl
 If the proxy server appends the **X-Forwarded-For** header to the request, 
 it allows the server to get the "real" Client IP from that header
 
+```
 X-Forwarded-For: 11.22.33.44
+```
+
     
